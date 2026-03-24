@@ -1,1 +1,6 @@
-123 if (1=addEventListenerd)ddawdaw
+import { useEffectEvent } from "react"
+
+debuggerdasdwg
+awffwarvr
+useEffectEvent
+
